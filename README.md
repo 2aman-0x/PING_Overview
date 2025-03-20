@@ -25,6 +25,8 @@ __If ping command or packets are losted then what the reason will be?__
 - Network Traffic
 - Own Hardware issue (ping localhost/127.0.0.1)
 
+---
+
 ## Some Ping Commands
 - ```ping ip```
 - ```ping hostname```
