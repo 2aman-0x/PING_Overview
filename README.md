@@ -6,6 +6,7 @@
 - Check Latency on Network.
 - DNS Resolution
 
+---
 
 ## How ping command works? 
 
@@ -13,6 +14,7 @@
 
 - Ping command will send some packets from my computer to ```192.168.0.101```. The packets will send through ICMP which is Internet Control Message Protocol.
 
+---
 
 __If ping command or packets are losted then what the reason will be?__
 
